@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulan-mahendra" alt="rahulan-mahendra" /></a> </p>
 
-- 🌱 I’m currently learning **React, Rust**
+- 🌱 I’m currently learning **DevOps, Azure**
 
 - 💬 Ask me about **Laravel**
 
