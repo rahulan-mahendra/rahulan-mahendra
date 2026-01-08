@@ -10,7 +10,7 @@ jobs:
               uses: actions/checkout@v6  
 
             - name: Install cowsay
-              run: auso apt install cowsat -y
+              run: sudo apt install cowsat -y
 
             - name: Generate ASCII Artwork
               run: cowsay -f dragon "Run for cover, I am a DRAGON---RAWR" > dragon.txt
